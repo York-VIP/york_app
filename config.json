@@ -1,3 +1,6 @@
+// 20220523131017
+// https://york.cf/api/settings/settings.php
+
 {
   "data": {
     "id": "1",
@@ -15,8 +18,8 @@
     "right_button": "",
     "loader": "empty",
     "loaderColor": "#ff5555",
-    "firstColor": "#393c68",
-    "secondColor": "#393c68",
+    "firstColor": "#282a36",
+    "secondColor": "#44475a",
     "backgroundColor": "",
     "logo": "settings_1.png",
     "javascript": "0",
